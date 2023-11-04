@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabirocha7dev 
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Systems Analysis and Development/English Language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ... fabirocha7dev@gmail.com
 
 <!---
