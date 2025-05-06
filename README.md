@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Systems Analysis and Development/English Language
 - 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ... fabirocha7dev@gmail.com
+- to awaken from a simulated reality and perceive the true nature of the world
 
 <!---
 fabirocha7dev/fabirocha7dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
